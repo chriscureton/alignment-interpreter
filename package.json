@@ -1,5 +1,8 @@
 {
   "name": "alignment-interpreter",
   "version": "1.0.0",
-  "type": "commonjs"
+  "main": "diagnostic-interpreter.js",
+  "dependencies": {
+    "openai": "^4.0.0" 
+  }
 }
