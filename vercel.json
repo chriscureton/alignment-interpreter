@@ -1,8 +1,7 @@
 {
-  "version": 2,
   "functions": {
     "api/diagnostic-interpreter.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "vercel-node@2.20.1"
     }
   }
 }
