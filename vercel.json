@@ -1,6 +1,7 @@
 {
+  "version": 2,
   "functions": {
-    "api/*.js": {
+    "api/diagnostic-interpreter.js": {
       "runtime": "nodejs18.x"
     }
   }
